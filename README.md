@@ -1,10 +1,10 @@
-# An introduction to Generalized Additive Models with R
+# Modelling Palaeoenvironmental Time Series Using Generalized Additive Models
 
-## York University, October 17, 2017
+## INSTAAR, Boulder, November 27, 2018
 
 ## Requirements
 
-You will require a recent version of R &mdash; ideally the latest 3.4.2 release &mdash; plus an R-aware edit in which to write scripts and run code, for which I recommend RStudio. You'll also need a recent version of the **mgcv** package.
+You will require a recent version of R &mdash; ideally the latest 3.5.x release &mdash; plus an R-aware edit in which to write scripts and run code, for which I recommend RStudio. You'll also need a recent version of the **mgcv** package.
 
 ### Latest R
 
